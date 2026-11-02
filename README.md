@@ -58,3 +58,10 @@ Feedback and Contributions
 I'd love to hear your feedback or suggestions! Feel free to open issues or pull requests on GitHub.
 
 Happy coding and secure backups! 🚀
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
